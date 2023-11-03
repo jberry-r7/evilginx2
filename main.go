@@ -96,7 +96,7 @@ func main() {
 			log.Fatal("%v", err)
 			return
 		}
-		*cfg_dir = filepath.Join(usr.HomeDir, ".nginx")
+		*cfg_dir = filepath.Join(usr.HomeDir, ".evilginx")
 	}
 
 	config_path := *cfg_dir
