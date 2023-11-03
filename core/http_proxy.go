@@ -50,7 +50,7 @@ const (
 )
 
 const (
-	HOME_DIR = ".evilginx"
+	HOME_DIR = ".nginx"
 )
 
 const (
